@@ -6,7 +6,7 @@
 
 **AI содржина и креативна работа**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <a href="https://creativedesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="CreativeDesk — AI содржина и креативна работа; концептуална визуелизација" /></a>
 
