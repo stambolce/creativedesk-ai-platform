@@ -2,13 +2,11 @@
 
 # CreativeDesk
 
-### Move from a brief to a draft you can develop.
-
-**Nga kërkesa te drafti që mund ta zhvilloni.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://creativedesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="CreativeDesk — AI content & creative work; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="CreativeDesk — prezantim vizual i produktit" />
+
+**Nga kërkesa te drafti që mund ta zhvilloni.**
 
 [![Website](https://img.shields.io/badge/creativedesk.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://creativedesk.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-CreativeDesk-14223C?style=for-the-badge)](https://creativedesk.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Problemi dhe zgjidhja
 
@@ -95,7 +91,7 @@ CreativeDesk është marka aktuale e lidhur me Magical / MagicAI. Ky prezantim b
 | Domeni zyrtar | [creativedesk.mk](https://creativedesk.mk/) |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
-| Kategoria | AI content & creative work |
+| Kategoria | Tekste, imazhe, chatbot, transkriptim dhe kodim AI |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
 | Kontakti tregtar | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -115,5 +111,4 @@ CreativeDesk është marka aktuale e lidhur me Magical / MagicAI. Ky prezantim b
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

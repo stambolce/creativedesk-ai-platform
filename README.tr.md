@@ -2,13 +2,11 @@
 
 # CreativeDesk
 
-### Move from a brief to a draft you can develop.
-
-**Brief'ten geliştirebileceğiniz taslağa geçin.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://creativedesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="CreativeDesk — AI content & creative work; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="CreativeDesk — ürün görsel sunumu" />
+
+**Brief'ten geliştirebileceğiniz taslağa geçin.**
 
 [![Website](https://img.shields.io/badge/creativedesk.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://creativedesk.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-CreativeDesk-14223C?style=for-the-badge)](https://creativedesk.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Sorun ve çözüm
 
@@ -95,7 +91,7 @@ CreativeDesk, Magical / MagicAI ile ilişkili güncel markadır. Bu sunum bilgiy
 | Resmî alan adı | [creativedesk.mk](https://creativedesk.mk/) |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
-| Kategori | AI content & creative work |
+| Kategori | AI metin, görsel, chatbot, transkripsiyon ve kodlama |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
 | İş iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -115,5 +111,4 @@ CreativeDesk, Magical / MagicAI ile ilişkili güncel markadır. Bu sunum bilgiy
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
